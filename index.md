@@ -10,7 +10,7 @@ Effectively identifying the cause and root of poor software performance is known
 
 In particular, we will focus on the use of augmented reality as an exploration medium for software performance engineers. As a consequence of the project, we will deliver tools and design methodology to improve performance reliability of software systems.
 
-*VISIAR* is funded by [REDES PCI](https://www.conicyt.cl/pci/tag/redes/) starting from 2020 until 2021.
+*VISIAR* is funded by [REDES PCI](https://www.conicyt.cl/pci/tag/redes/) from 2020 until 2021.
 
 ## Team
 
