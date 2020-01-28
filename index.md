@@ -10,10 +10,13 @@ Effectively identifying the cause and root of poor software performance is known
 
 In particular, we will focus on the use of augmented reality as an exploration medium for software performance engineers. As a consequence of the project, we will deliver tools and design methodology to improve performance reliability of software systems.
 
-*VISIAR* is funded by [REDES PCI](https://www.conicyt.cl/pci/tag/redes/) from 2020 until 2021.
+*VISIAR* is funded by [REDES PCI](https://www.conicyt.cl/pci/tag/redes/) from 2020 until 2021 and is led by Alexandre Bergel.
 
 ## Team
 
-- [Martin Dias](https://www.linkedin.com/in/tinchodias) - Researcher - University of Chile
-- [Leonel Merino](https://www.visus.uni-stuttgart.de/en/institute/team/Merino-00001/) - Researcher - University of Stuttgart
-- [Alexandre Bergel](http://bergel.eu) - Director - University of Chile
+- [Dr. Martin Dias](https://www.linkedin.com/in/tinchodias) - Researcher - University of Chile
+- [Dr. Leonel Merino](https://www.visus.uni-stuttgart.de/en/institute/team/Merino-00001/) - Researcher - University of Stuttgart
+- [Prof. Dr. Daniel Weiskopf](https://www.vis.uni-stuttgart.de/en/institute/team/Weiskopf-00007/) - Researcher - University of Stuttgart
+- [Prof. Dr. Alexandre Bergel](http://bergel.eu) - Researcher - University of Chile
+
+
